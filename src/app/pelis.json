@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Super Mario Bros. La película",
+        "precio": 19.98
+    },
+    {
+        "nombre": "Star Wars",
+        "precio": 25.99
+    },
+    {
+        "nombre": "The Matrix",
+        "precio": 15.49
+    },
+    {
+        "nombre": "Inception",
+        "precio": 22.99
+    },
+    {
+        "nombre": "The Godfather",
+        "precio": 29.99
+    },
+    {
+        "nombre": "The Dark Knight",
+        "precio": 18.99
+    },
+    {
+        "nombre": "Forrest Gump",
+        "precio": 17.49
+    },
+    {
+        "nombre": "Pulp Fiction",
+        "precio": 24.99
+    },
+    {
+        "nombre": "Fight Club",
+        "precio": 19.49
+    },
+    {
+        "nombre": "Gladiator",
+        "precio": 21.99
+    }
+]
