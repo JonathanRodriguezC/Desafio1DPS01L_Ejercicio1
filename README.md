@@ -7,19 +7,14 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/JonathanRodriguezC/Desafio1DPS01L_Ejercicio1.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-repo-name
-    ```
-3. Install dependencies:
+
+2. Install dependencies:
     ```sh
     npm install
     ```
 
 ## Usage
-
-Provide instructions and examples for using the project. For example:
 ```sh
 npm start
