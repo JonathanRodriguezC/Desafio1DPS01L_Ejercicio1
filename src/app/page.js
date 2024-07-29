@@ -7,7 +7,8 @@ export default function Home() {
     <main className={styles.main}>
       <PelisMain></PelisMain>
       <footer className={styles.footer}>
-        <p>Jonathan Rodriguez RC181256</p>
+        <p>Jonathan Alexander Rodriguez Campos RC181256</p>
+        <p>Rodrigo Humberto Aguilera Mendoza	AM201939</p>
       </footer>
     </main>
 
