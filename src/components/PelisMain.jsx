@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import DataPelis from '../app/pelis.json'
+import DataPelis from '../data/pelis.json'
 import { PelisPicker } from './PelisPicker'
 import { PelisList } from './PelisList'
 import Style from '../app/page.module.css'
